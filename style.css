@@ -1,0 +1,52 @@
+body{
+    background-color: blue;
+}
+#lista{
+    width:1206px;
+    float: left;
+    margin: auto;
+    
+}
+.scroll{
+
+    background:url('./img.png')0 0;
+    width:200px;
+    height: 200px;
+    margin-right: 1px;
+    float: left;
+}
+.scroll1{
+    background:url('./img.png')-200px 0;
+    width:200px;
+    height: 200px;
+    margin-right: 1px;
+    float: left;
+}
+.scroll2{
+    background:url('./img.png')-400px 0;
+    width:200px;
+    height: 200px;
+    margin-right: 1px;
+    float: left;
+}
+.scroll3{
+    background:url('./img.png')-600px 0;
+    width:200px;
+    height: 200px;
+    float: left;
+    margin-right: 1px;
+}
+.scroll4{
+    background:url('./img.png')-800px 0;
+    width:200px;
+    height: 200px;
+    float: left;
+    margin-right: 1px;
+}
+.scroll5{
+    background:url('./img.png')-1000px 0;
+    width:200px;
+    height: 200px;
+    float: left;
+    margin-right: 1px;
+}

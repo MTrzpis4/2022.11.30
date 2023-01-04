@@ -1,0 +1,57 @@
+body{
+    background-color: yellow;
+}
+#lista{
+    width: 100px;
+    height: 100px;
+}
+.w1{
+    background: url('znaki.png') 0 0;
+    width: 100px;
+    height: 100px;
+}
+.w2{
+    background: url('znaki.png') 0 -100px;
+    width: 100px;
+    height: 100px;
+}
+.w3{
+    background: url('znaki.png') 0 -200px;
+    width: 100px;
+    height: 100px;
+}
+.w4{
+    background: url('znaki.png') 0 -300px;
+    width: 100px;
+    height: 100px;
+}
+.w5{
+    background: url('znaki.png') 0 -400px;
+    width: 100px;
+    height: 100px;
+}
+.w6{
+    background: url('znaki.png') 0 -500px;
+    width: 100px;
+    height: 100px;
+}
+.w7{
+    background: url('znaki.png') 0 -600px;
+    width: 100px;
+    height: 100px;
+}
+.w8{
+    background: url('znaki.png') 0 -700px;
+    width: 100px;
+    height: 100px;
+}
+.w9{
+    background: url('znaki.png') 0 -800px;
+    width: 100px;
+    height: 100px;
+}
+.w10{
+    background: url('znaki.png') 0 -900px;
+    width: 100px;
+    height: 100px;
+}
